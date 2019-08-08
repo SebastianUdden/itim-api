@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../src/routes/index.js"],"names":["users"],"mappings":";;;;;;;AAAA;;;;eAEe;AACbA,EAAAA,KAAK,EAALA;AADa,C","sourcesContent":["import users from \"./user\";\n\nexport default {\n  users\n};\n"],"file":"index.js"}
